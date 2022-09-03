@@ -4,4 +4,4 @@
 - yarn start o npm start
 
 ## Backend
-El backend (server) se encuentra en [backend](https://github.com/OsvaldoHdez/BackendServer).
+El backend (server) se encuentra en [backend](https://github.com/OsvaldoHdez/TradLenguasBack).
